@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/techienaut/react-hooks-showcase/issues"
   },
-  "homepage": "https://github.com/techienaut/react-hooks-showcase#readme"
+  "homepage": "https://github.com/techienaut/react-hooks-showcase#readme",
+  "dependencies": {
+    "concurrently": "^6.2.1"
+  }
 }
